@@ -1,0 +1,12 @@
+{
+  "name": "sexy_api",
+  "version": "1.0.0",
+  "description": "api",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "mongodb": "^3.6.9"
+  }
+}
